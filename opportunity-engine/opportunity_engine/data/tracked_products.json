@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "amazon_url": "https://www.amazon.in/dp/B0BXYZABC1",
+    "flipkart_url": "https://www.flipkart.com/sony-wh-1000xm5/p/itm123",
+    "category": "electronics",
+    "target_price": 22000
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "amazon_url": "https://www.amazon.in/dp/B0BXYZDEF2",
+    "flipkart_url": "https://www.flipkart.com/samsung-galaxy-s24-ultra/p/itm456",
+    "category": "mobile",
+    "target_price": 95000
+  },
+  {
+    "name": "MacBook Air M3",
+    "amazon_url": "https://www.amazon.in/dp/B0BXYZGHI3",
+    "flipkart_url": "",
+    "category": "laptop",
+    "target_price": 95000
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum",
+    "amazon_url": "https://www.amazon.in/dp/B0BXYZJKL4",
+    "flipkart_url": "https://www.flipkart.com/dyson-v15/p/itm789",
+    "category": "appliances",
+    "target_price": 45000
+  },
+  {
+    "name": "LG 55 inch C3 OLED TV",
+    "amazon_url": "https://www.amazon.in/dp/B0BXYZMNO5",
+    "flipkart_url": "https://www.flipkart.com/lg-55-c3-oled/p/itm012",
+    "category": "tv",
+    "target_price": 110000
+  }
+]

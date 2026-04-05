@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "skills": ["Python", "Django", "AWS", "Docker"],
+    "experience_years": 4,
+    "current_company": "TCS",
+    "preferred_locations": ["Bangalore", "Remote"],
+    "email": "aarav@example.com",
+    "open_to_switch": true,
+    "tier_preference": "any"
+  },
+  {
+    "name": "Priya Sharma",
+    "skills": ["Python", "ML", "TensorFlow", "Data Science"],
+    "experience_years": 6,
+    "current_company": "Infosys",
+    "preferred_locations": ["Bangalore", "Hyderabad"],
+    "email": "priya@example.com",
+    "open_to_switch": true,
+    "tier_preference": "tier1"
+  },
+  {
+    "name": "Rohan Gupta",
+    "skills": ["React", "Node.js", "TypeScript", "AWS"],
+    "experience_years": 3,
+    "current_company": "Wipro",
+    "preferred_locations": ["Noida", "Gurgaon", "Remote"],
+    "email": "rohan@example.com",
+    "open_to_switch": true,
+    "tier_preference": "any"
+  },
+  {
+    "name": "Sneha Reddy",
+    "skills": ["Java", "Spring Boot", "Microservices", "Kubernetes"],
+    "experience_years": 7,
+    "current_company": "Cognizant",
+    "preferred_locations": ["Hyderabad", "Bangalore"],
+    "email": "sneha@example.com",
+    "open_to_switch": true,
+    "tier_preference": "tier2"
+  },
+  {
+    "name": "Vikram Singh",
+    "skills": ["DevOps", "Terraform", "Kubernetes", "AWS", "GCP"],
+    "experience_years": 5,
+    "current_company": "Accenture",
+    "preferred_locations": ["Pune", "Remote"],
+    "email": "vikram@example.com",
+    "open_to_switch": true,
+    "tier_preference": "any"
+  },
+  {
+    "name": "Ananya Joshi",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis"],
+    "experience_years": 3,
+    "current_company": "Startup",
+    "preferred_locations": ["Bangalore", "Remote"],
+    "email": "ananya@example.com",
+    "open_to_switch": true,
+    "tier_preference": "any"
+  },
+  {
+    "name": "Karan Patel",
+    "skills": ["Data Engineering", "Spark", "Airflow", "Python", "SQL"],
+    "experience_years": 5,
+    "current_company": "Amazon",
+    "preferred_locations": ["Bangalore"],
+    "email": "karan@example.com",
+    "open_to_switch": true,
+    "tier_preference": "tier1"
+  }
+]

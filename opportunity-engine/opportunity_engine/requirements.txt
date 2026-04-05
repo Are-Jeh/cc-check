@@ -1,0 +1,22 @@
+# Opportunity Engine — Python Dependencies
+
+# Async HTTP client
+aiohttp>=3.9.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+
+# Telegram bot (async version)
+python-telegram-bot>=21.0
+
+# Scheduler
+APScheduler>=3.10.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Razorpay payment integration (optional — for /subscribe)
+razorpay>=1.4.0
+
+# Timezone support (used by APScheduler)
+pytz>=2024.1
